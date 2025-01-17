@@ -1,2 +1,14 @@
 
-/* Your CSS Code here. */
+/* Your CSS Code here. */\
+.holder {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+ 
+
+}
+.item{
+	border: 1px solid green;
+	padding:20px;
+	background-color: blue;
+}
